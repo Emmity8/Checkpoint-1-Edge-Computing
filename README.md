@@ -60,7 +60,7 @@ Este projeto introduz conceitos como:
 ---
 
 Checkpoint de Edge Computing desenvolvido por: 
-- **Guilherme Ruiz Costa** 
-- **Guilherme Moura Gama** 
-- **João Batista Lima Neto** 
-- **Júlio César Augusto Vieira**
+- **Guilherme Ruiz Costa (RM: 563236)**
+- **Guilherme Moura Gama (RM: 562162)** 
+- **João Batista Lima Neto (RM: 563426)** 
+- **Júlio César Augusto Vieira (RM: 563366)**
