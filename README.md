@@ -37,11 +37,16 @@ Esses limites podem ser ajustados conforme o ambiente ou o tipo de aplicação.
 
 ## 🖥️ Código Fonte
 
-O código foi escrito em **C/C++ para Arduino** e está disponível no arquivo `main.ino`. Ele utiliza as funções básicas de entrada analógica (`analogRead`) e saída digital (`digitalWrite`), além da comunicação serial para depuração.
+O código foi escrito em **C/C++ para Arduino** e está disponível no arquivo `Código do Arduino.ino`. Ele utiliza as funções básicas de entrada analógica (`analogRead`) e saída digital (`digitalWrite`), além da comunicação serial para depuração.
+
+## 🎥 Vídeo de Apresentação
+Confira o vídeo de apresentação do projeto em funcionamento no link abaixo:
+
+- (https://drive.google.com/file/d/1m315X7EczGVezfD0bG7ApFIqB4LwkpM-/view?usp=drive_link)
 
 ## 🧪 Como Testar
 
-1. Monte o circuito conforme o [diagrama no Tinkercad]
+Monte o circuito conforme o **diagrama no Tinkercad**
 - (https://www.tinkercad.com/things/lzXK4H5Dn5Z/editel?sharecode=Mqug-0mmLDSlU_eYF61Dd4i285_we88Ub1hY1G79DfU)
 
 ## 📚 Aprendizados
