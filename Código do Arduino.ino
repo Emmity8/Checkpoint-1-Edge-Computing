@@ -17,7 +17,7 @@ void setup() {
 
 void loop() {
   int valorLuz = analogRead(ldrPin);
-  Serial.println(valorLuz));
+  Serial.println(valorLuz);
 
   if (valorLuz < LIMITE_OK) {
     // Luz baixa (boa)
